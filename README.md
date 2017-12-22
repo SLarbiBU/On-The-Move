@@ -1,4 +1,5 @@
 # On The Move - An App for Dancers
+- Sarah Larbi & Taylor Potye
 
 ## Introduction
 • A lot of dancers move to Boston every year with the hope of continuing to dance but don’t know where to look. On the Move is a mobile application that provides a collective source of information about local dance events, classes, auditions, and shows based on when you are looking to attend one of these events.
