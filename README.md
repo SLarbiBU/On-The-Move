@@ -1,5 +1,4 @@
 # On The Move - An App for Dancers
-# Innovation Journey
 
 ## Introduction
 • A lot of dancers move to Boston every year with the hope of continuing to dance but don’t know where to look. On the Move is a mobile application that provides a collective source of information about local dance events, classes, auditions, and shows based on when you are looking to attend one of these events.
@@ -14,6 +13,7 @@
 ### Technology Used
 • Languages: HTML, CSS, Javascript • PhoneGap
 
+## Innovation Journey
 ### Motivation
 • We are both dancers studying Computer Science who wanted a way to combine our passions. Moving to a new place may be something that is likely to occur in our near future and we would both love to continue dancing wherever we may go.
 ### Pivots
